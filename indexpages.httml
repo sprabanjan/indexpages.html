@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KLN College of Engineering</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="hero">
+
+    <!-- College Background Image -->
+    <img src="college.jpg" class="bg-image" alt="College Image">
+
+    <!-- College Logo -->
+    <img src="logo.png" class="logo" alt="College Logo">
+
+    <!-- College Name -->
+    <div class="content">
+        <h1>KLN COLLEGE OF ENGINEERING</h1>
+        <p>Empowering Knowledge • Inspiring Innovation</p>
+        <a href="#" class="btn">Explore</a>
+    </div>
+
+</div>
+
+</body>
+</html>
